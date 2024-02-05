@@ -9,12 +9,12 @@
         "telegrambot"
     ],
     "env": {
-        "api_id": {
+        "API_ID": {
             "description": "ايبي ايدي",
             "value": "",
             "required": true
         },
-        "api_hash": {
+        "API_HASH": {
             "description": "ايبي هاش",
             "value": "",
             "required": true
@@ -24,7 +24,7 @@
             "value": "",
             "required": true
         },
-        "bot_token": {
+        "ELHYBA": {
             "description": "توكن البوت",
             "value": "",
             "required": true
